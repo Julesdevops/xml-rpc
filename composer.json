@@ -1,5 +1,8 @@
 {
     "name": "jules/php-xml-rpc",
+    "require": {
+        "php": "7.1.0"
+    },
     "type": "library",
     "description": "Simple wrapper for the XML-RPC PHP extension",
     "keywords": ["xml-rpc"],
