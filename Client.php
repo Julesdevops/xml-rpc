@@ -1,10 +1,10 @@
 <?php
 
-namespace Jules\PhpXmlRpc;
+namespace Julesdevops\PhpXmlRpc;
 
-use Jules\PhpXmlRpc\Exceptions\ConfigurationException;
-use Jules\PhpXmlRpc\Response;
-use Jules\PhpXmlRpc\Transport\StreamTransport;
+use Julesdevops\PhpXmlRpc\Exceptions\ConfigurationException;
+use Julesdevops\PhpXmlRpc\Response;
+use Julesdevops\PhpXmlRpc\Transport\StreamTransport;
 
 class Client
 {

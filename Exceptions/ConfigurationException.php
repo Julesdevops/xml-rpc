@@ -1,6 +1,6 @@
 <?php
 
-namespace Jules\PhpXmlRpc\Exceptions;
+namespace Julesdevops\PhpXmlRpc\Exceptions;
 
 class ConfigurationException extends Exception implements XmlRpcException
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Jules\PhpXmlRpc;
+namespace Julesdevops\PhpXmlRpc;
 
-use Jules\PhpXmlRpc\Exceptions\TransportException;
+use Julesdevops\PhpXmlRpc\Exceptions\TransportException;
 
 class StreamTransport implements Transport
 {

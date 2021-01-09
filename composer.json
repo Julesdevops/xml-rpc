@@ -1,5 +1,5 @@
 {
-    "name": "jules/xml-rpc",
+    "name": "julesdevops/xml-rpc",
     "type": "library",
     "description": "Simple wrapper for the XML-RPC PHP extension",
     "keywords": ["xml-rpc"],

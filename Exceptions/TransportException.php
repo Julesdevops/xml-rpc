@@ -1,6 +1,6 @@
 <?php
 
-namespace Jules\PhpXmlRpc\Exceptions;
+namespace Julesdevops\PhpXmlRpc\Exceptions;
 
 class TransportException extends Exception implements XmlRpcException
 {

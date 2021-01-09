@@ -1,8 +1,8 @@
 <?php
 
-namespace Jules\PhpXmlRpc;
+namespace Julesdevops\PhpXmlRpc;
 
-use Jules\PhpXmlRpc\Response;
+use Julesdevops\PhpXmlRpc\Response;
 
 interface Transport
 {
