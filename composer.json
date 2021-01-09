@@ -1,5 +1,5 @@
 {
-    "name": "jules/php-xml-rpc",
+    "name": "jules/xml-rpc",
     "require": {
         "php": "7.1.0"
     },
