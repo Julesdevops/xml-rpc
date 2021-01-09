@@ -1,0 +1,14 @@
+{
+    "name": "jules/php-xml-rpc",
+    "type": "library",
+    "description": "Simple wrapper for the XML-RPC PHP extension",
+    "keywords": ["xml-rpc"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jules Bourdais",
+            "email": "julesbourdais7198@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
