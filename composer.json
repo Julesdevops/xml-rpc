@@ -1,11 +1,9 @@
 {
     "name": "jules/xml-rpc",
-    "require": {
-        "php": "7.1.0"
-    },
     "type": "library",
     "description": "Simple wrapper for the XML-RPC PHP extension",
     "keywords": ["xml-rpc"],
+    "homepage": "https://github.com/Julesdevops/xml-rpc",
     "license": "MIT",
     "authors": [
         {
@@ -13,5 +11,10 @@
             "email": "julesbourdais7198@gmail.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "php": "7.1.0",
+        "ext-libxml": "*",
+        "ext-xmlrpc": "*"
+    },
 }
